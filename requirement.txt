@@ -1,0 +1,5 @@
+tqdm
+nltk
+vaderSentiment
+langdetect
+pycountry
